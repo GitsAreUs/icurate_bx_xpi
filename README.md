@@ -1,1 +1,1 @@
-# icurate_bx_xpi
+iCurate browser extension 0.0.1
